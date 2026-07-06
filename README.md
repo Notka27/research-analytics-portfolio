@@ -73,8 +73,8 @@
 ├── credit_risk_kaggle.ipynb      # проект 1 (Kaggle Credit Risk)
 ├── bondora_risk_analysis.ipynb   # проект 2 (Bondora реальные данные)
 ├── README.md                     # этот файл
-├── аналитическое задание.docx    # план исследования
-└── data/                         # папка с датасетами (не заливается на GitHub)
+└── аналитическое задание.docx    # план исследования
+
 ## Ссылки на данные
 - **Kaggle:** [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset?resource=download)
 - **Bondora:** [Raw данные (S3)](https://mikes-junk-drawer.s3.us-east-2.amazonaws.com/Bondora_raw.csv) — P2P-кредиты, Европа
