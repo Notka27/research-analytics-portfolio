@@ -29,7 +29,7 @@
 
 **Инструменты:** Python (pandas, numpy, scikit-learn, statsmodels, PyMC, geopandas, esda, matplotlib, seaborn).
 
-**Файл:** `region_analysis_research.ipynb`
+**Файл:** `region_analysis_research.py`
 
 ## Проект 2: Credit Risk Analysis — прогнозирование дефолта заемщиков (Kaggle)
 
