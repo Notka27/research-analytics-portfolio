@@ -80,7 +80,6 @@
 - **Bondora:** [Raw данные (S3)](https://mikes-junk-drawer.s3.us-east-2.amazonaws.com/Bondora_raw.csv) — P2P-кредиты, Европа
 
 ## Автор
-
 **Белозеров Роман Алексеевич**  
 Аналитик-исследователь / Менеджер аналитических проектов  
 Telegram: @Roma_Belozerov97  
