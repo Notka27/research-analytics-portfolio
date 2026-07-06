@@ -78,7 +78,6 @@
 ## Ссылки на данные
 - **Kaggle:** [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset?resource=download)
 - **Bondora:** [Raw данные (S3)](https://mikes-junk-drawer.s3.us-east-2.amazonaws.com/Bondora_raw.csv) — P2P-кредиты, Европа
-## Автор
 
 ## Автор
 
